@@ -109,6 +109,10 @@ body{
         color: white;
         background-color: rgb(221, 0, 0);
     }
+    .fixed-side-button:first-child{
+        color: white;
+        background-color: rgb(221, 0, 0);
+    }
     .blog{            
         /* width: 260px; */  
         height: 160px;
