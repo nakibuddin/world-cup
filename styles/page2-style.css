@@ -143,7 +143,22 @@ body{
         margin-bottom: 2px;
         font-weight: 600;
     }
-
+    .view-all-button{
+        text-align: center;
+        margin: auto;
+    }
+    .view-all-button a{    
+            display: inline-block;
+            color: #ffffff;
+            background-color: rgb(221, 0, 0);    
+            margin-top: 30px;        
+            padding: 12px 25px 12px; /* top (left,right) bottom */
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: 400; 
+            display: none;
+    }
+    
 /*------------------------------------- footer part ---------------------------------*/
 .footer-container{
     width: 100%;
